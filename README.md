@@ -2,6 +2,10 @@
 
 La tenue du jour selon la météo de ton créneau dehors.
 
+### 👉 [Ouvrir l'outil en ligne : ketsia24.github.io/je-mets-quoi](https://ketsia24.github.io/je-mets-quoi/)
+
+Météo en direct, n'importe quelle ville. Aperçu sur journées d'exemple : [page Claude](https://claude.ai/artifact/CPdbcb7NoPH9RsnGazf6uB).
+
 On choisit un lieu, un créneau (par exemple 8h → 19h), un profil (frileux, normal, peu frileux) et un trajet (à pied ou à vélo). L'outil lit la météo heure par heure et rend une tenue complète, couche par couche, avec la raison chiffrée de chaque choix et le numéro de la règle qui l'a décidée.
 
 Projet réalisé entièrement avec une IA (Claude), sans écrire de code à la main : le travail a consisté à formuler les demandes, critiquer les résultats et trancher entre les options.
